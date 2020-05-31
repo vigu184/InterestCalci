@@ -3,7 +3,6 @@ C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\CICalc.StaticWebAssets.xml
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\CICalc.dll
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\CICalc.pdb
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\CICalc.dll
-C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
@@ -61,7 +60,6 @@ C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\CICalc.dll.gz
-C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
 C:\Users\Vignesh\CICalc\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -156,9 +154,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.AssemblyInfo.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.csproj.CoreCompileInputs.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.RazorComponent.input.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
@@ -168,9 +163,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.TagHelpers.input.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.TagHelpers.output.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.RazorCoreGenerate.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
@@ -178,7 +170,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.RazorTargetAssemblyInfo.cache
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.csproj.CopyComplete
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
@@ -235,7 +226,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\blazor\blazor.boot.json
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\CICalc.dll.gz
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -293,7 +283,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotn
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\CICalc.dll.br
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
@@ -356,6 +345,6 @@ C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Calci.razor.g.cs
 C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\Razor\Pages\Calci.razor.g.cs
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\tutWr1SoF2CUycFDlIlMafQJhE-ANErysy1MvgAVSB0=.hash
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\Wq95l3QGfvO1uk9O1ePnzfhhRsE7Fkl6C9oJltsg_pE=.hash
-C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\sS0MOPVL7syMDgLP7zyf5nZjCOV8GgGuexFXTLMAOzw=.hash
+C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\rPkAxN_EUNBog2xbUbViDMgM8ZQJg6fV9Fg4gwtapcA=.hash
+C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\8hB_XUYw9r8tiyJ8iEgWB0o7crs5PcQhd_8JiAGofE0=.hash
+C:\Users\Vignesh\CICalc\obj\Debug\netstandard2.1\integrity\qrzJ64wy8N5FZs2HbuWO2pt2aBtcmYdpaff4vvJhEak=.hash

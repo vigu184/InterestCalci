@@ -367,55 +367,6 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "CICalc.Pages.Index",
-        "AssemblyName": "CICalc",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CICalc.Pages.Index"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "CICalc.Pages.Index",
-        "AssemblyName": "CICalc",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CICalc.Pages.Index",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CICalc.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
         "Documentation": "\n            <summary>\n            A component that provides a cascading value to all descendant components.\n            </summary>\n        ",
@@ -16470,11 +16421,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Vignesh\\CICalc\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Vignesh\\CICalc\\Pages\\Calci.razor",
       "TargetPath": "Pages\\Calci.razor",
       "FileKind": "component"
@@ -16490,11 +16436,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Vignesh\\CICalc\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Vignesh\\CICalc\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -16502,11 +16443,6 @@
     {
       "FilePath": "c:\\Users\\Vignesh\\CICalc\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Vignesh\\CICalc\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     }
   ],

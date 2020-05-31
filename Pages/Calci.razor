@@ -1,6 +1,6 @@
 @page "/Calci"
-<h1>  Welcome to calculator </h1>
-<table class="table">
+<h1>  Compound Interest Calculator </h1>
+<table class="table" bgcolor="orange" border="2px">
                     <tr>
                     <th>Principal Amount</th>
                     <th> <input @bind=Principal/> </th>
@@ -10,28 +10,40 @@
                         <th><input @bind=Years/></th>
                     </tr>
                     <tr>
-                        <th>Annual Return (%)</th>
+                        <th>Interest Per Annum (%)</th>
                         <th><input @bind=InterestRate/></th>
                     </tr>
                     <tr>
-                        <th>Total:</th>
+                        <th>Total After @Years Years </th>
                         <th>@total</th>
                     </tr>
 
-                    <tr> <th>Approximately @ytd years to Double the Principal Amount </th></tr>
+                    <tr>
+                        <th>
+                            Times Increase
+                        </th>
+                        <th>
+                            @Ratio
+                        </th>
+                    </tr>
+
+                    <tr> <th>Approximate time to Double the Principal Amount </th>
+                    <th> @YearsToDouble years </th>
+                    </tr>
 </table>
 
 <button class="btn btn-primary" @onclick="calculate">  Calculate </button>
 @code
 {
-    private double Principal { get; set; } = 4000;
-    private double InterestRate { get; set; } = 5;
-    private int Years{ get;set;} = 10;
+    private double Principal { get; set; }
+    private double InterestRate { get; set; }
+    private int Years{ get;set;}
 
     private double Total { get; set; } = 0;
     private string total {get; set;}
     private int YearsToDouble { get; set;} = 0;
     private string ytd {get; set; }
+    private double Ratio { get; set; }
 
     private void calculate() 
     {
@@ -40,5 +52,7 @@
 
         YearsToDouble = Convert.ToInt32(72/InterestRate);
         ytd = YearsToDouble.ToString();
-    }
+
+        Ratio = Math.Round((Total/Principal),3);
+}
 }
